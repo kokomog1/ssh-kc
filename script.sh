@@ -25,10 +25,10 @@ echo "
 <h3><font color='green'>--- ۩ SERVER BY ④ ⍤⃝🌻④ ۩ ---
 </font></h3>
 
-<h4><font color='cyan'>Telegram Channel >> https://t.me/Pmttg
+<h4><font color='cyan'>Telegram Channel >> https://t.me/kochitt
 </font></h4>
 
-<h4><font color='blue'>Telegram Channel >> https://t.me/nkka_404
+<h4><font color='blue'>Telegram Channel >> https://t.me/kochitt
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
@@ -46,7 +46,7 @@ echo -e "${cyan} \ \______  \       \ \  \/\  \       \ \______  \              
 echo -e "${cyan}  \|_____|\  \       \ \  \/\  \       \|_____|\  \                           ${plain}"
 echo -e "${cyan}         \ \__\       \ \_______\             \ \__\                          ${plain}"
 echo -e "${cyan}          \|__|        \|_______|              \|__|                          ${plain}"
-echo -e "${green}Contact the developer https://t.me/nkka404 for more information              ${plain}"
+echo -e "${green}Contact the developer https://t.me/kochitt for more information              ${plain}"
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
-echo -e "${cyan}i am 404 😎 ${plain}"
+echo -e "${cyan}i am kc 😋 ${plain}"
