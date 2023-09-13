@@ -22,7 +22,10 @@ echo "
 <h3><font color='magenta'>--- ۩ ပရီမီယမ် ဆာဗာ ۩ ---
 </font></h3>
 
-<h3><font color='green'>--- ဆုံးရှုံးတယ်ဆိုတာ နောက်မှနောင်တရတဲ့သူမဟုတ်လား ဟန်နီ🥲
+<h3><font color='green'>--- လူတွေကအတ္တကြီးကြတယ်ဟန်နီ👩
+</font></h3>
+
+<h3><font color='green'>--- ကိုယ့်ဘက်ကိုတာယှက်ခါဖိတ်တတ်တဲ့လိပ်တွေပါဟန်နီ🐢
 </font></h3>
 
 <h3><font color='gray'>--- ۩ SERVER BY KO CHIT ۩ ---
