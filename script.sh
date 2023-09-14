@@ -22,10 +22,10 @@ echo "
 <h3><font color='magenta'>--- ۩ ပရီမီယမ် ဆာဗာ ۩ ---
 </font></h3>
 
-<h3><font color='green'>--- လူတွေကအတ္တကြီးကြတယ်ဟန်နီ👩
+<h3><font color='green'>--- ကိုယ်ဖြစ်ချင်တာထက်ဖြစ်သင့်ဘဲလုပ်ရတာဘဲဟန်နီ👩
 </font></h3>
 
-<h3><font color='green'>--- ကိုယ့်ဘက်ကိုတာယှက်ခါဖိတ်တတ်တဲ့လိပ်တွေပါဟန်နီ🐢
+<h3><font color='green'>--- ပင်ပန်းတာထက်ပိုလွမ်းတာကပိုပါတယ်ဟန်နီ🐢
 </font></h3>
 
 <h3><font color='gray'>--- ۩ SERVER BY KO CHIT ۩ ---
@@ -34,7 +34,7 @@ echo "
 <h4><font color='cyan'>Telegram Channel >> https://t.me/kochitt
 </font></h4>
 
-<h4><font color='blue'>Telegram Channel >> https://t.me/kochitt
+<h4><font color='blue'>Telegram Channel >> https://t.me/gcpsevergoodspeed
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
